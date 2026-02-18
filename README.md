@@ -4,7 +4,7 @@ Teoria<br>
 P1
 R= es un framework que nos da la posibilidad de diseñar aplicaciones nativas moviles para IOS o android con algo de javascript<br>
 P2
-R= Un software que se encarga de alguan tarea en celulares o tablets<br>
+R= Un software que se encarga de alguan tarea en celulares o tablets, algun ejemplo que utilizo seria la aplicacion de Notas o la de Reloj<br>
 P3
 R=<br>
 APLICACIONES NATIVAS<br>
