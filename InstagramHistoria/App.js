@@ -216,9 +216,20 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
   },
-  storyUser: { color: 'white', fontSize: 20, fontWeight: 'bold' },
-  storyText: { color: 'white', fontSize: 18, marginVertical: 20 },
-  storyViews: { color: 'white', fontSize: 14, marginBottom: 30 },
+  storyUser: { 
+    color: 'white', 
+    fontSize: 20, 
+    fontWeight: 'bold' 
+  },
+  storyText: { 
+    color: 'white', 
+    fontSize: 18, 
+    marginVertical: 20 
+  },
+  storyViews: { 
+    color: 'white', 
+    fontSize: 14, 
+    marginBottom: 30 },
   closeButton: {
     backgroundColor: 'rgba(255,0,0,0.6)',
     padding: 15,
